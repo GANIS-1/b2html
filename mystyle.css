@@ -9,7 +9,7 @@ header {
 }
 
 header h2 {
-    background-color: rgb(226, 209, 57);
+    background-color: yellow;
     padding: 20px;
     display: grid;
     margin: 0;
@@ -28,13 +28,14 @@ nav ul {
 }
 
 nav li {
-    background-color: rgb(243, 201, 208);
+    background-color: pink;
     padding: 25px 2px;
     text-decoration: none;
     color: black;
     font-weight: bold;
     padding-top: 10px;
     height: 32px;
+    font-size: x-large;
 }
 
 main {
