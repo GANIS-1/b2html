@@ -9,7 +9,7 @@ header {
 }
 
 header h2 {
-    background-color: yellow;
+    background-color: rgb(240, 201, 60);
     padding: 20px;
     display: grid;
     margin: 0;
